@@ -7,7 +7,7 @@ console.log(sum);
 
 //or
 
-function sumAll2(... arr: number[]){
+function sumAll2(... arr){
     return arr.reduce((prev,next)=>prev+next);
 }
 
