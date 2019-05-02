@@ -1,5 +1,6 @@
 // plugin hybrids are tough to calculate because of how their fuels fight each other
 const daysInMonth = 30
+const daysInYear = 365;
 
 let tankSize = 16
 let pricePerFuelUnit = .07
